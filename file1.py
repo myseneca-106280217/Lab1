@@ -10,5 +10,10 @@ def calculating_age():
 
 print(calculating_age())
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
 
 
