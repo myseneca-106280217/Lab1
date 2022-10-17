@@ -9,3 +9,10 @@ def calculating_age():
   return f"Your current age is (age) years"
 
 print(calculating_age())
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
